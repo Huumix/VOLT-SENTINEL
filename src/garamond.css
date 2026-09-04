@@ -1,0 +1,5 @@
+html, body, #root, button { font-family: 'EB Garamond', Garamond, serif; }
+.brand, .status-pill, .panel-head, .system-state, .fault-block strong, .no-fault, .map-mini b, .weather-main b, .weather-main span, .fault-toast strong { font-family: 'EB Garamond', Garamond, serif; }
+.brand { font-size: 22px; }
+.topbar, .live, .top-meta, .taskbar button, .metric-grid label, .reading-list label, .telemetry, .location-data, .chart label, .fault-toast span, .fault-toast small { font-size: 11px; }
+.status-pill { font-size: 19px; }.panel-head { font-size: 16px; }.system-state, .no-fault { font-size: 17px; }.weather-main b { font-size: 45px; }.fault-toast strong { font-size: 20px; }

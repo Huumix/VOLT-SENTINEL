@@ -1,0 +1,7 @@
+/* Clean industrial treatment: no glitter, glow, scan lines, or status pulsing. */
+.scanlines { display: none; }
+.brand-mark { display: none; }
+.brand-mark, .live i, .status-pill i, .system-state i, .no-fault i { box-shadow: none; }
+.status-pill, .critical-mode { animation: none; text-shadow: none; filter: none; }
+.critical-mode .vignette { background: radial-gradient(ellipse at center, transparent 34%, rgba(0,8,11,.42) 100%); }
+.map-mini i { box-shadow: none; }
